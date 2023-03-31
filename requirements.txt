@@ -5,6 +5,5 @@ google-cloud-texttospeech
 google-cloud-translate
 pydub
 bs4
-ebooklib
 lxml
 mutagen
